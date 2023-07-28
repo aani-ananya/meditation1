@@ -19,6 +19,11 @@ this is my website and my website name is meditation that helps to people to rel
  ## Azure Service
 ![Screenshot 2023-07-28 151422](https://github.com/aani-ananya/meditation1/assets/113978840/61de6930-0810-457a-b975-4436ba33d0f2)
 
+## Azure Link
+
+https://red-ground-0a987c210.3.azurestaticapps.net
+
+
 ## Web Technology used:
 1.HTML
 
