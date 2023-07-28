@@ -19,5 +19,24 @@ this is my website and my website name is meditation that helps to people to rel
  ## Azure Service
 ![Screenshot 2023-07-28 151422](https://github.com/aani-ananya/meditation1/assets/113978840/61de6930-0810-457a-b975-4436ba33d0f2)
 
+## Web Technology used:
+1.HTML
 
-##
+2.CSS
+
+3.JAVASCRIPT
+
+##  Steps Followed While Deploying:
+1.firstly i built the complete project using visual studio code,then tested it on the live server extension's
+
+2.After that i have installed the git on my system.
+
+3.After that i uploaded and committed the project into my github repositry.
+
+4.The projecgt was deployed using the github pages and tested it.
+
+5.After that i logged into my azure account and created azure storage account.
+
+6.After that i have created a container with blob storage and uploaded my project code into the container.
+
+7.Finally my website was deployed on the azure web services and ready to use.
