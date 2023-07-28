@@ -32,16 +32,16 @@ https://red-ground-0a987c210.3.azurestaticapps.net
 3.JAVASCRIPT
 
 ##  Steps Followed While Deploying:
-1.firstly i built the complete project using visual studio code,then tested it on the live server extension's
+1.first I built the complete project using visual studio code,then tested it on the live server extension's
 
-2.After that i have installed the git on my system.
+2.After that I have installed the git on my system.
 
-3.After that i uploaded and committed the project into my github repositry.
+3.After that I uploaded and committed the project into my github repositry.
 
 4.The projecgt was deployed using the github pages and tested it.
 
-5.After that i logged into my azure account and created azure storage account.
+5.After that I logged into my azure account and created azure storage account.
 
-6.After that i have created a container with blob storage and uploaded my project code into the container.
+6.Then I have created a container with blob storage and uploaded my project code into the container.
 
 7.Finally my website was deployed on the azure web services and ready to use.
