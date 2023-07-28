@@ -1,5 +1,5 @@
 # meditation1
-This is my website and the name of my project is Meditation . This app helps people to reduce stress and relax the mind
+This is my website and the name of my app is Meditation . This app helps people to reduce stress and relax the mind
 ## home
 ![Screenshot 2023-07-28 145541](https://github.com/aani-ananya/meditation1/assets/113978840/1d2dc951-4be6-4c15-8e73-e136a8dacaaa)
 ![Screenshot 2023-07-28 150253](https://github.com/aani-ananya/meditation1/assets/113978840/21452487-3f0f-4742-84ae-18834ced150d)
