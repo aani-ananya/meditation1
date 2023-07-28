@@ -39,8 +39,6 @@ https://red-ground-0a987c210.3.azurestaticapps.net
 
 4.The projecgt was deployed using the github pages and tested it.
 
-5.After that I logged into my azure account and created azure storage account.
+5.After that I logged into my azure account and created a static web app.  
 
-6.Then I have created a container with blob storage and uploaded my project code into the container.
-
-7.Finally my website was deployed on the azure web services and ready to use.
+6.Finally my website was deployed on the azure web services and ready to use.
