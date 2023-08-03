@@ -23,6 +23,7 @@ This is my website and the name of my app is Meditation . This app helps people 
 https://red-ground-0a987c210.3.azurestaticapps.net
 ## Azure Technology used:
 1.static web apps
+2.containers
 
 
 ## Web Technology used:
