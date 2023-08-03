@@ -18,6 +18,11 @@ This is my website and the name of my app is Meditation . This app helps people 
  ## Azure Service
 ![Screenshot 2023-07-28 151422](https://github.com/aani-ananya/meditation1/assets/113978840/61de6930-0810-457a-b975-4436ba33d0f2)
 
+
+
+![Screenshot 2023-07-28 231732](https://github.com/aani-ananya/meditation1/assets/113978840/17bc72f5-5cac-4e10-9413-c8b90e281ffd)
+
+
 ## Azure Link
 
 https://red-ground-0a987c210.3.azurestaticapps.net
