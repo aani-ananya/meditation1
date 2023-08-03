@@ -20,8 +20,8 @@ This is my website and the name of my app is Meditation . This app helps people 
 
 
 
-![Screenshot 2023-07-28 231732](https://github.com/aani-ananya/meditation1/assets/113978840/17bc72f5-5cac-4e10-9413-c8b90e281ffd)
 
+![Screenshot 2023-08-03 234749](https://github.com/aani-ananya/meditation1/assets/113978840/46d64449-b8d4-4ec7-85ac-95b1f8a02888)
 
 ## Azure Link
 
